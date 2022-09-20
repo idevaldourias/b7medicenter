@@ -208,6 +208,14 @@ nav a:hover {
     height: 150px;
     margin-top: 20px;
     background-color: #42b3e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.campo h3 {
+    color: #FFFFFF;
+    font-size: 15px;
 }
 
 .content_body {
